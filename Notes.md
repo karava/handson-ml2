@@ -19,3 +19,6 @@
 * Always try to get a feel for the computation time, and try to start with smaller sample sizes if possible, record time. Then scale up.
 * Move to a server or another machine if required - make this process easy aswell, perhaps have one dedicated crunching machine.
 * Probably smart not to run computation on your laptop at all. Machine gets too hot and makes too much noise.
+
+## TODO:
+[] Merge updated HandsonML code in Github
