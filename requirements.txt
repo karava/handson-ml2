@@ -52,7 +52,7 @@ tensorflow-addons==0.8.3
 
 # There are a few dependencies you need to install first, check out:
 # https://github.com/openai/gym#installing-everything
-gym[atari]==0.17.1
+#gym[atari]==0.17.1
 # On Windows, install atari_py using:
 # pip install --no-index -f https://github.com/Kojoley/atari-py/releases atari_py
 
