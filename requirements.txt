@@ -28,7 +28,7 @@ transformers==2.8.0
 # you must install CUDA, cuDNN and more: see tensorflow.org for the detailed
 # installation instructions.
 
-tensorflow==2.1.0
+tensorflow==2.2.0
 
 # Optional: the TF Serving API library is just needed for chapter 19.
 tensorflow-serving-api==2.1.0
@@ -42,17 +42,17 @@ tensorflow-probability==0.9.0
 
 # Optional: only used in chapter 13.
 # NOT AVAILABLE ON WINDOWS
-tfx==0.21.2
+tfx==0.24
 
 # Optional: only used in chapter 16.
 # NOT AVAILABLE ON WINDOWS
-tensorflow-addons==0.8.3
+tensorflow-addons==0.10.0
 
 ##### Reinforcement Learning library (chapter 18)
 
 # There are a few dependencies you need to install first, check out:
 # https://github.com/openai/gym#installing-everything
-gym[atari]==0.17.1
+#gym[atari]==0.17.1
 # On Windows, install atari_py using:
 # pip install --no-index -f https://github.com/Kojoley/atari-py/releases atari_py
 
